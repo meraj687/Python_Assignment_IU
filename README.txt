@@ -8,15 +8,12 @@ This repository contains Python scripts and visualizations for analyzing nanoflu
 CSV/
     ideal.csv
     train.csv
-Task_01/
+Task01/
     Python_task01.py
     best_fit.html
     ideal_functions.html
     training_data.html
-Task_02/
-    Python_task_02.py
-    scatter_plot.html
-Task_02_seg_def/
+Task02/
     Task_02_seg_def.py
 best_fit.html
 ideal_functions.html
